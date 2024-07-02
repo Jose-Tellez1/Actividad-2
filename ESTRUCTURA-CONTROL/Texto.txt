@@ -1,0 +1,4 @@
+Nos permite manejar y tener mas control sobre nuestro codigo y de ese modo podemos darle correcta orientacion en funcion de ciertas condiciones
+lo que en adelante conoceremos como bifurcasiones o bucles
+
+La bifurcasion nos permite ir por un camino y otro se cumple la condicion o por el camino necesario hasta que la condicion se cumpla
